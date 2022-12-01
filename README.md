@@ -1,4 +1,4 @@
-# Hello world, I’m Holly 👋
+# Hi there, I’m Holly 👋
 I'm a software engineer with a content management background. I'm currently enrolled in Springboard's Software Engineering Bootcamp.
 
 - 🌱  I’m learning **JavaScript, React, Node.js, Express, Python, Flask, PostgreSQL**
