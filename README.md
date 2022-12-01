@@ -14,10 +14,7 @@ I'm a software engineer with a content management background. I'm currently enro
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
-![react](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=ReactNative&logoColor=000000)
 ![redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
-![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
-![jss](https://img.shields.io/badge/jss-F7DF1E?style=for-the-badge&logo=jss&logoColor=FFFFFF)
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 
 ### Backend
