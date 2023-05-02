@@ -1,7 +1,6 @@
 # Hi there, I’m Holly 👋
-I'm a software engineer with a content management background. I'm currently enrolled in Springboard's Software Engineering Bootcamp.
+I'm a software engineer with a content management background.
 
-- 🌱  I’m learning **JavaScript, React, Node.js, Express, Python, Flask, PostgreSQL**
 - 💻  I’m interested in software development opportunities
 - 👀  Take a look at my experience [https://www.linkedin.com/in/hollyabrams/](https://www.linkedin.com/in/hollyabrams/)
 - 📫  Reach me at **holly.d.abrams@gmail.com**
