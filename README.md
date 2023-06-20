@@ -1,5 +1,5 @@
 <div align="center">
-<h3>👋 Hi, I'm Holly Abrams</h3>
+<h3>👋 Hi, I'm Holly</h3>
 <p>
 I'm a Software Engineer with a background in content management. Passionate about building meaningful and functional applications.
 </p>
