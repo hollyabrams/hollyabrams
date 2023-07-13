@@ -1,7 +1,7 @@
 <div align="center">
 <h3>👋 Hi there, I'm Holly</h3>
 <p>
-I'm a Software Engineer with a background in content management. Passionate about building meaningful and functional applications.
+I'm a Software Engineer with a background in content and knowledge management. Passionate about building meaningful and functional applications.
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/hollyabrams?style=social)
